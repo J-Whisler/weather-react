@@ -162,6 +162,7 @@ const ContentContainer = styled(motion.div)`
   margin-top: 5rem;
   font-size: 3rem;
   justify-content: space-evenly;
+  background-color: rgba(255, 255, 255, 0.1);
 `;
 
 export default Weather;
